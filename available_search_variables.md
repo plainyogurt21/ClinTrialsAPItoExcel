@@ -133,15 +133,8 @@ To help you effectively use the `GetClinicalTrialValue` function, here's a detai
 
 For any questions, feedback, or support, please reach out to:
 
-- **Name:** [Your Name]
-- **Email:** [your.email@example.com]
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
-- **Website:** [Your Website](https://yourwebsite.com)
+- **Name:** Adu Subramanian
+- **Email:** adu.subramanian@gmail.com
 
----
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
