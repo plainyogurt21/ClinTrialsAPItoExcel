@@ -13,7 +13,6 @@ A Connection to Clin Trials API using Excel VBA.
 7. [Examples](#examples)
 8. [Troubleshooting](#troubleshooting)
 9. [Version History](#version-history)
-10. [License](#license)
 11. [Contact](#contact)
 
 ---
@@ -46,7 +45,7 @@ A Connection to Clin Trials API using Excel VBA.
 Follow these steps to install the **Clinical Trial Data Fetcher Add-In**:
 
 1. **Download the Add-In:**
-   - Obtain the `.xlam` file from the distribution source (e.g., [GitHub Repository](#), [Dropbox Link](#), etc.).
+   - Obtain the `.xlam` file 
 
 2. **Open Excel:**
    - Launch Microsoft Excel on your computer.
